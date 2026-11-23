@@ -56,6 +56,3 @@ le texte affiché devient `colorScheme détecté : dark` et les couleurs changen
 - Expo
 - JavaScript
 
-## Auteur
-
-Marouane Chafiqi
